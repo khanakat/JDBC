@@ -69,18 +69,31 @@ Antes de continuar con este tutorial, debe tener un buen conocimiento del lengua
 ### Tutoriales
 
 📗 [Introducción](Tutoriales/introduction.md)
+
 📗 [Sintaxis SQL](Tutoriales/sql_syntax.md)
+
 📗 [Entorno](Tutoriales/environment.md)
+
 📗 [Código de Ejemplo](Tutoriales/sample_code.md)
+
 📗 [Tipos de Drivers](Tutoriales/driver_types.md)
+
 📗 [Conexiones](Tutoriales/connections.md)
+
 📗 [Declaraciones](Tutoriales/statements.md)
+
 📗 [Conjuntos de Resultados](Tutoriales/result_sets.md)
+
 📗 [Tipos de datos](Tutoriales/data_types.md)
+
 📗 [Transacciones](Tutoriales/transactions.md)
+
 📗 [Excepciones](Tutoriales/exceptions.md)
+
 📗 [Procesos Batch](Tutoriales/batch_processing.md)
+
 📗 [Procedimientos Almacenados](Tutoriales/stored_procedure.md)
+
 📗 [Transmisión de datos](Tutoriales/streaming_data.md)
 
 ### Ejemplos
