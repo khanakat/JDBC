@@ -76,7 +76,7 @@ Antes de continuar con este tutorial, debe tener un buen conocimiento del lengua
 
 📗 [Código de Ejemplo](Tutoriales/sample_code.md)
 
-📗 [Tipos de Drivers](Tutoriales/driver_types.md)
+📗 [Tipos de Controladores](Tutoriales/driver_types.md)
 
 📗 [Conexiones](Tutoriales/connections.md)
 
